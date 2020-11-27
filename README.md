@@ -16,6 +16,8 @@
 
 <h1 align=center><code>balancer</code></h1>
 
+# Test for commitment
+
 **Balancer** is an automated **portfolio manager**, **liquidity provider**, and **price sensor**.
 
 Balancer turns the concept of an index fund on its head: instead of a paying fees
